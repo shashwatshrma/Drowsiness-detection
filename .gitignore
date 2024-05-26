@@ -1,0 +1,18 @@
+# ignore jupyter checkpoints
+/.ipynb_checkpoints
+
+# ignore the model
+/model checkpoint
+
+# ignore the dataset
+/mrlEyes_2018_01
+/prepared_data
+
+# folder for debugging
+/saved
+
+# ignore readme backup
+README.md.backup
+
+# ignore alarm sound
+alarm.wav
